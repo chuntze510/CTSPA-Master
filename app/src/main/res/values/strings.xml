@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">按摩大師</string>
+    <string name="head">頭痛治療</string>
+    <string name="starttoplay">點擊並開始按壓</string>
+    <string name="_50">50</string>
+    <string name="stoprightnow">叮嚀:若由頭暈不適請立即停止!</string>
+    <string name="hotwater">按壓完後請配合溫開水與熱敷</string>
+    <string name="_20">按壓方法: 一個穴位順時鐘按壓20秒</string>
+    <string name="stoch">腸胃妙方</string>
+    <string name="startnow">點擊並開始按壓</string>
+    <string name="_301">30</string>
+    <string name="nowstop">叮嚀:若由頭暈不適請立即停止!</string>
+    <string name="usehotwater">按壓完後請配合溫開水與熱敷</string>
+    <string name="_20sec">按壓方法: 一個穴位順時鐘按壓20秒</string>
+    <string name="todo">TODO</string>
+    <string name="username">會員帳號</string>
+    <string name="loginnnn">登入</string>
+    <string name="passsss">會員密碼</string>
+</resources>
